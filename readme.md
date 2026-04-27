@@ -7,6 +7,9 @@ Clawjub 是一款**无需编程**、**云端+本地双模式**的通用数据采
 ---
 
 ## ✨ 核心能力
+<video src="[你的视频.mp4](https://clawjuc.oss-cn-shanghai.aliyuncs.com/short.mp4)" controls width="600"></video>
+
+## ✨ 核心能力
 
 - **内页的概念**：新闻站详情页、视频站的具体播放页、资源内页、统一成为内页。
 - **三种采集模式**，适配任何网页结构，可应对不同场景：
