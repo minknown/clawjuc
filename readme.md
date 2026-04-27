@@ -8,10 +8,10 @@ Clawjub 是一款**无需编程**、**云端+本地双模式**的网站数据采
 
 ## ✨ 视频简介
 
-通过5分钟快速了解平台功能：
-https://clawjuc.oss-cn-shanghai.aliyuncs.com/short.mp4 
-演示一个任务的完整详细操作：
-https://clawjuc.oss-cn-shanghai.aliyuncs.com/clawjuc.mp4 
+通过5分钟快速了解平台功能：     
+https://clawjuc.oss-cn-shanghai.aliyuncs.com/short.mp4     
+演示一个任务的完整详细操作：    
+https://clawjuc.oss-cn-shanghai.aliyuncs.com/clawjuc.mp4     
 
 ## ✨ 核心能力
 
@@ -54,10 +54,10 @@ https://clawjuc.oss-cn-shanghai.aliyuncs.com/clawjuc.mp4
 
 ## 📤 多种导出与分发方式
 
-| SQL, XLS, PDF, XML, JSON等常用文件格式 
-| 工作流自动通知（8n8、Zapier、邮件、Webhook等） 
-| API 实时分享采集结果（通过接口获取采集的数据）
-| 使用内置脚本分发到Wordpress，Zblog等几十种博客论坛平台 
+| SQL, XLS, PDF, XML, JSON等常用文件格式    
+| 工作流自动通知（8n8、Zapier、邮件、Webhook等）    
+| API 实时分享采集结果（通过接口获取采集的数据）  
+| 使用内置脚本分发到Wordpress，Zblog等几十种博客论坛平台    
 
 
 ---
@@ -88,7 +88,7 @@ https://clawjuc.oss-cn-shanghai.aliyuncs.com/clawjuc.mp4
 
 ## 🔗 部分图片
 
-![一张风景照](image/a.png)
-![一张风景照](image/d.png)
-![一张风景照](image/v.png)
+![一张风景照](image/a.png)  
+![一张风景照](image/d.png)   
+![一张风景照](image/v.png)   
 
