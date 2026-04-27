@@ -7,8 +7,9 @@ Clawjub 是一款**无需编程**、**云端+本地双模式**的通用数据采
 ---
 
 ## ✨ 视频简介
+[![视频封面](image/p.png)]([https://www.bilibili.com/video/BVxxx](https://clawjuc.oss-cn-shanghai.aliyuncs.com/short.mp4))
 
-[![视频封面](image/p.png)]([视频.mp4](https://clawjuc.oss-cn-shanghai.aliyuncs.com/short.mp4))
+
 
 ## ✨ 核心能力
 
